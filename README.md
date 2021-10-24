@@ -12,3 +12,9 @@ To use this you need MOLAR, streamlit, pandas and plotly. To install you can do 
 pip instal streamlit pandas plotly molar
 streamlit run app.py
  ```
+ 
+The main contributors to this code are 
+* Spencer Trinh @sktrinh12
+* José Manuel Nápoles @napoles-uach
+
+This code is provided as is under an MIT licence.
