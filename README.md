@@ -14,7 +14,7 @@ streamlit run app.py
  ```
  
 The main contributors to this code are 
-* Spencer Trinh @sktrinh12
-* José Manuel Nápoles @napoles-uach
+* Spencer Trinh [@sktrinh12](https://github.com/sktrinh12)
+* José Manuel Nápoles [@napoles-uach](https://github.com/napoles-uach)
 
 This code is provided as is under an MIT licence.
