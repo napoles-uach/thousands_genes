@@ -13,6 +13,8 @@ pip instal streamlit pandas plotly molar
 streamlit run app.py
  ```
  
+However, to properly run MOLAR you need Docker and follow the instructions in the documentation. 
+ 
 The main contributors to this code are 
 * Spencer Trinh [@sktrinh12](https://github.com/sktrinh12)
 * José Manuel Nápoles [@napoles-uach](https://github.com/napoles-uach)
